@@ -1,0 +1,25 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 21f4674e-a653-5280-9b7b-6aba3eea438f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b7d5ea0c-a853-651e-a5c2-0ad15cb4cde4
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: e52e1e6d-5892-780c-1ae2-87bf0e826894
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 78a1ebc9-14c1-7175-f5fd-032fedd69f3d
+  name: First Paper Assignment
+  pageRef: /pages/assignments/first-paper-assignment
+  parent: e52e1e6d-5892-780c-1ae2-87bf0e826894
+  weight: 40
+- identifier: 8320aace-1e3c-ca4a-76c3-0364a4cd1f6a
+  name: Final Paper Assignment
+  pageRef: /pages/assignments/final-paper-assignment
+  parent: e52e1e6d-5892-780c-1ae2-87bf0e826894
+  weight: 50

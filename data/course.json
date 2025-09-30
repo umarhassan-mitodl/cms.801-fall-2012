@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "History"
+    ]
+  ],
+  "legacy_uid": "b5ae22d7-643b-8e0e-e46d-b79bc2b2110b",
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e4e1a4be-0859-30d7-fb9b-f9f41c52ad67",
+    "website": "cms-801-media-in-transition-fall-2012"
+  },
+  "course_title": "Media in Transition",
+  "hide_download": true,
+  "course_description": "This course centers on historical eras in which the form and function of media technologies were radically transformed. It includes consideration of the \"Gutenberg Revolution,\" the rise of modern mass media, and the \"digital revolution,\" among other case studies of media transformation and cultural change. Readings are in cultural and social history and historiographic method.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "CMS.801",
+  "course_image_thumbnail": {
+    "content": "f3c3b52c-051c-4b6b-0129-4c1b9b4c5fef",
+    "website": "cms-801-media-in-transition-fall-2012"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "b0200851-db45-43aa-96ef-98709ebdad95",
+  "site_short_id": "cms.801-fall-2012",
+  "site_url_path": "courses/cms-801-media-in-transition-fall-2012",
+  "title": "Course Metadata"
+}
